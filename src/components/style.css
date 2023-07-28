@@ -31,7 +31,7 @@
     0 0 10px #fff, /* Right glow shadow - adjust the color and size as per your preference */
     0 0 10px #fff, /* Bottom glow shadow - adjust the color and size as per your preference */
     0 0 10px #fff; /* Left glow shadow - adjust the color and size as per your preference */
-    border-radius: 10%;
+    border-radius: 35px;
 }
 
 .input-box{
@@ -74,5 +74,5 @@ button{
 .result{
     color: #fff;
     font-size: medium;
-    
+
 }
